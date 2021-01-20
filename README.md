@@ -1,2 +1,4 @@
 # GHlab1
-GH
+## editing the file
+its a markdown file in this repository.
+
